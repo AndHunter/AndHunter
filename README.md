@@ -4,10 +4,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://discord.com/channels/@me">
+  <a href="https://discord.com/channels/@andhunter">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/andhunter">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
