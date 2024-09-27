@@ -1,4 +1,7 @@
-# Welcome!
+<h1 align="center">
+  Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>  
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" width="800"/>
 </div>
@@ -11,10 +14,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-
-<h1 align="center">
-  Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>  
 
 ## 🛠️ Technologies I Work With:
 <div align="center">
