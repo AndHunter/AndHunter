@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://discord.com/channels/@andhunter">
+  <a href="https://discord.com/channels/@1019643444592902144">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://t.me/andhunter">
