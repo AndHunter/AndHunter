@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
 
 ---
