@@ -17,16 +17,16 @@
 
 ## 🛠️ Technologies I Work With:
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"/>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50"/>
+  <img src="https://skillicons.dev/icons?i=robotframework" alt="Robotics" width="50"/>
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50"/>
 </div>
 
 ---
