@@ -2,8 +2,6 @@
   Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>  
 
----
-
 ## 🛠️ Technologies I Work With:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" />
@@ -21,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=robotframework" alt="Robotics" width="50" />
 </p>
 
----
 
 ## 🚀 My Projects:
 - Developing **Telegram bots** for task automation.
@@ -29,6 +26,6 @@
 - Working with **robots** and writing programs for microcontrollers.
 - Continuously exploring and learning new technologies.
 
----
+
 
 
