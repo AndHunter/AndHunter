@@ -2,15 +2,6 @@
   Welcome to My GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>  
 
-<p align="center">
-  <a href="https://discord.com/channels/@1019643444592902144">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://t.me/andhunter">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Technologies I Work With:
@@ -40,9 +31,4 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Andrewfuntikov&theme=dark&background=000000" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewfuntikov&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-</p>
+
