@@ -17,6 +17,9 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" />
   <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" />
   <img src="https://skillicons.dev/icons?i=robotframework" alt="Robotics" width="50" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50" />
 </p>
 
 
