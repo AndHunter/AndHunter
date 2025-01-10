@@ -19,7 +19,7 @@
 - Developing **Telegram bots** for task automation.
 - Creating web applications using **Django**.
 - Working with **robots** and writing programs for microcontrollers.
-- Continuously exploring and learning new technologies.
+- Data analysis and ML.
 
 
 
