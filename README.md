@@ -8,7 +8,6 @@
   <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" />
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
   <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" />
   <img src="https://skillicons.dev/icons?i=robotframework" alt="Robotics" width="50" />
 </p>
