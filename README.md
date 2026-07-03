@@ -146,14 +146,15 @@ The bot handles:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndHunter&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndHunter&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndHunter&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndHunter&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndHunter&theme=github_dark" />
 </p>
 
 ---
