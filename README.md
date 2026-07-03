@@ -6,35 +6,47 @@
 
 <p align="center">
   <a href="https://github.com/AndHunter">GitHub</a> ·
-  <a href="https://t.me/main4562">Telegram</a>
+  <a href="https://t.me/main4562">Telegram</a> ·
+  <a href="https://www.kaggle.com/andrewsokolovsky">Kaggle</a>
 </p>
 
 ---
 
 ## 👋 About
 
-I'm a Python developer interested in **Machine Learning**, **Data Science** and building practical ML-based systems.
+I'm focused on **Machine Learning**, **Data Science** and building practical ML-based systems.
 
-I work mostly with tabular ML, recommender systems, computer vision and backend services around ML models.
+Mostly working with:
 
-Currently, I'm developing ML/DS projects, experimenting with model pipelines, and building tools that connect data, models and APIs.
+- recommender systems
+- computer vision
+- tabular ML
+- feature engineering
+- ranking models
+- ML pipelines
+- backend services around ML models
+
+I like projects where ML is not just a notebook, but a working pipeline: data preprocessing, validation, model training, inference logic and integration with an API or product.
 
 ---
 
 ## 🏆 Achievements
 
-- **AIIJC / AI Challenge** — prize-winner
-- **National Technology Olympiad, Artificial Intelligence track** — prize-winner
+- **[AIIJC / AI Challenge](https://aiijc.com/en/)** — prize-winner, School Track  
+- **[National Technology Olympiad, Artificial Intelligence track](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/iskusstvennyy-intellekt/)** — prize-winner
 
 ---
 
 ## 🛠 Stack
 
-**ML / Data Science:**  
+**ML / DS:**  
 Python, pandas, NumPy, scikit-learn, CatBoost, PyTorch, TensorFlow, SciPy
 
+**RecSys / Ranking:**  
+CatBoostRanker, ALS, BM25, item-to-item similarity, learning-to-rank, reranking
+
 **Computer Vision:**  
-OpenCV, image processing, Matplotlib, Plotly
+OpenCV, ViT, image preprocessing, color correction, histogram-based models
 
 **Backend / Tools:**  
 FastAPI, Flask, Django, Docker, PostgreSQL, SQLite, MongoDB, Git
@@ -46,43 +58,91 @@ Python, SQL, C++
 
 ## 🚀 Projects
 
-### Auto White Balance
+### [Auto White Balance — AIIJC](https://github.com/AndHunter/Auto-White-Balance-AIIJC)
 
-Computer Vision project for the automatic white balance task.
+Computer Vision solution for the **Automatic White Balance** problem in mobile cameras.
 
-The goal was to correct image colors under complex lighting conditions using white point estimation.
+The task was to predict a distribution of possible white points in a scene under different lighting conditions.
 
-**Tech:** Python, NumPy, OpenCV, image processing, computer vision
+What I used:
 
----
+- Vision Transformer backbone
+- image metadata
+- log-chroma histogram features
+- edge maps
+- depth features
+- Gaussian Mixture Model parameterization
+- Wasserstein/KL-based loss
 
-### Recovering Lost Implicit Feedback
-
-Recommender system project from the **NTO AI Final**.
-
-The solution is based on a two-stage recommendation pipeline: candidate generation, ranking, feature engineering and post-processing.
-
-**Tech:** Python, pandas, NumPy, scikit-learn, recommender systems
-
----
-
-### Personalized Book Recommendation System
-
-Book recommendation system built for an academy hackathon.
-
-The project includes user-item interaction processing, ranking and diversity-aware reranking.
-
-**Tech:** Python, pandas, NumPy, scikit-learn, recommender systems
+**Tech:** Python, PyTorch, OpenCV, NumPy, timm, image processing  
+**Result:** 3rd place, AIIJC School Track
 
 ---
 
-### Educational Telegram Bot
+### [Recovering Lost Implicit Feedback — NTO AI Final](https://github.com/AndHunter/Recovering-lost-implicit-feedback-NTO-AI-Final)
+
+Recommender system solution for the **NTO AI Final 2025/26**.
+
+The task was to recover lost positive user-book interactions after a logging failure.
+
+The solution is based on a two-stage RecSys pipeline:
+
+- candidate generation
+- feature engineering
+- CatBoostRanker
+- PU-learning logic
+- time-window validation
+- final top-20 ranking
+
+Candidate generators included:
+
+- ALS
+- BM25
+- popularity baseline
+- item-to-item similarity
+- metadata-based retrieval
+- incident-window generators
+
+**Tech:** Python, pandas, implicit, CatBoost, scikit-learn  
+**Score:** ~0.144289 NDCG@20
+
+---
+
+### [By Pages Hackathon Solution](https://github.com/AndHunter/by-pages-hackathon-solution)
+
+Personalized book recommendation system for the AI Academy hackathon **“По страницам”**.
+
+The task was to generate top-20 book recommendations for each user while balancing relevance and genre diversity.
+
+The final pipeline included:
+
+- handcrafted user/item features
+- text and graph features
+- collaborative filtering features
+- CatBoost / LightGBM / XGBoost models
+- neural network meta-features
+- CatBoostRanker with YetiRank
+- diversity-aware MMR reranking
+
+**Tech:** Python, pandas, CatBoost, LightGBM, XGBoost, PyTorch, implicit, sentence-transformers  
+**Score:** 0.719
+
+---
+
+### [Telegram Bot for Quantorium](https://github.com/AndHunter/Telegram_bot_for_quantorium)
 
 Telegram bot for automating educational course workflows.
 
-The bot handles course registration, user interaction, contact information and certificate generation.
+The bot handles:
 
-**Tech:** Python, Telegram Bot API, backend automation
+- course registration
+- user interaction through inline keyboards
+- certificate generation
+- contact information
+- Google Sheets integration
+- PostgreSQL storage
+
+**Tech:** Python, aiogram, PostgreSQL, Google Sheets API
 
 ---
 
@@ -102,3 +162,4 @@ The bot handles course registration, user interaction, contact information and c
 
 - Telegram: [@main4562](https://t.me/main4562)
 - GitHub: [github.com/AndHunter](https://github.com/AndHunter)
+- Kaggle: [andrewsokolovsky](https://www.kaggle.com/andrewsokolovsky)
