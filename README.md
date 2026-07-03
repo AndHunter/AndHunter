@@ -11,33 +11,20 @@
 
 ---
 
-## 👋 About me
+## 👋 About
 
-I'm a Python developer focused on **Machine Learning**, **Data Science** and practical ML systems.
+I'm a Python developer interested in **Machine Learning**, **Data Science** and building practical ML-based systems.
 
-I work with tabular data, recommender systems, computer vision, feature engineering and backend services for ML models.
+I work mostly with tabular ML, recommender systems, computer vision and backend services around ML models.
 
-Main areas of interest:
-
-- machine learning
-- recommender systems
-- computer vision
-- data analysis
-- ML pipelines
-- backend for ML products
-
-Currently open to **ML internship**, **Junior ML Engineer** and **Python + ML part-time** opportunities.
+Currently, I'm developing ML/DS projects, experimenting with model pipelines, and building tools that connect data, models and APIs.
 
 ---
 
 ## 🏆 Achievements
 
-- **AIIJC / AI Challenge** — prize-winner  
-  International Artificial Intelligence Contest for Children and Youth
-
+- **AIIJC / AI Challenge** — prize-winner
 - **National Technology Olympiad, Artificial Intelligence track** — prize-winner
-
-- **Regional stage of the All-Russian Olympiad in Artificial Intelligence** — prize-winner
 
 ---
 
@@ -49,7 +36,7 @@ Python, pandas, NumPy, scikit-learn, CatBoost, PyTorch, TensorFlow, SciPy
 **Computer Vision:**  
 OpenCV, image processing, Matplotlib, Plotly
 
-**Backend / Engineering:**  
+**Backend / Tools:**  
 FastAPI, Flask, Django, Docker, PostgreSQL, SQLite, MongoDB, Git
 
 **Languages:**  
@@ -59,21 +46,21 @@ Python, SQL, C++
 
 ## 🚀 Projects
 
-### Auto White Balance — AIIJC
+### Auto White Balance
 
-Computer Vision project for the automatic white balance problem.
+Computer Vision project for the automatic white balance task.
 
-The task was to correct image colors under complex lighting conditions by estimating white point distribution in a scene.
+The goal was to correct image colors under complex lighting conditions using white point estimation.
 
 **Tech:** Python, NumPy, OpenCV, image processing, computer vision
 
 ---
 
-### Recovering Lost Implicit Feedback — NTO AI Final
+### Recovering Lost Implicit Feedback
 
-Two-stage recommender system for recovering lost implicit feedback.
+Recommender system project from the **NTO AI Final**.
 
-The solution includes candidate generation, ranking, feature engineering and post-processing.
+The solution is based on a two-stage recommendation pipeline: candidate generation, ranking, feature engineering and post-processing.
 
 **Tech:** Python, pandas, NumPy, scikit-learn, recommender systems
 
@@ -81,7 +68,7 @@ The solution includes candidate generation, ranking, feature engineering and pos
 
 ### Personalized Book Recommendation System
 
-Recommendation system built for an academy hackathon.
+Book recommendation system built for an academy hackathon.
 
 The project includes user-item interaction processing, ranking and diversity-aware reranking.
 
@@ -91,29 +78,11 @@ The project includes user-item interaction processing, ranking and diversity-awa
 
 ### Educational Telegram Bot
 
-Telegram bot for course automation at an educational organization.
+Telegram bot for automating educational course workflows.
 
 The bot handles course registration, user interaction, contact information and certificate generation.
 
 **Tech:** Python, Telegram Bot API, backend automation
-
----
-
-## 🔒 Private ML Experience
-
-I also have experience with a private commercial ML project that cannot be published publicly.
-
-The project involved:
-
-- feature engineering for product and advertising data
-- training several ML models
-- time-based validation
-- rule-based recommendation logic
-- FastAPI endpoints
-- batch recommendation generation
-- model retraining pipeline
-
-**Tech:** Python, pandas, scikit-learn, CatBoost, FastAPI, Docker
 
 ---
 
@@ -131,5 +100,5 @@ The project involved:
 
 ## 📫 Contacts
 
-- GitHub: [github.com/AndHunter](https://github.com/AndHunter)
 - Telegram: [@main4562](https://t.me/main4562)
+- GitHub: [github.com/AndHunter](https://github.com/AndHunter)
