@@ -1,85 +1,81 @@
 <h1 align="center">Andrey Naimushin</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer / Python Developer</b>
+  <b>ML Engineer · Python Developer</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AndHunter">GitHub</a>
-  ·
-  <a href="https://t.me/YOUR_TELEGRAM">Telegram</a>
+  <a href="https://github.com/AndHunter">GitHub</a> ·
+  <a href="https://t.me/main4562">Telegram</a>
 </p>
 
 ---
 
-## About me
+## 👋 About me
 
-I am a Python developer focused on **Machine Learning**, **Data Science** and **production-oriented ML systems**.
+I'm a Python developer focused on **Machine Learning**, **Data Science** and practical ML systems.
 
-My main interests are:
+I work with tabular data, recommender systems, computer vision, feature engineering and backend services for ML models.
 
-- classical machine learning
+Main areas of interest:
+
+- machine learning
 - recommender systems
 - computer vision
-- tabular data
-- feature engineering
+- data analysis
 - ML pipelines
-- backend services for ML models
+- backend for ML products
 
-I have experience with building end-to-end solutions: from data preprocessing and model training to validation, inference logic and API integration.
-
-Currently looking for **ML internship**, **Junior ML Engineer** or **Python + ML part-time** opportunities.
+Currently open to **ML internship**, **Junior ML Engineer** and **Python + ML part-time** opportunities.
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-- **Artificial Intelligence International Junior Contest (AIIJC)** — prize-winner
-- **National Technology Olympiad, Artificial Intelligence track (NTO AI)** — prize-winner
+- **AIIJC / AI Challenge** — prize-winner  
+  International Artificial Intelligence Contest for Children and Youth
+
+- **National Technology Olympiad, Artificial Intelligence track** — prize-winner
+
 - **Regional stage of the All-Russian Olympiad in Artificial Intelligence** — prize-winner
 
 ---
 
-## Tech Stack
+## 🛠 Stack
 
-**Languages:** Python, SQL, C++
+**ML / Data Science:**  
+Python, pandas, NumPy, scikit-learn, CatBoost, PyTorch, TensorFlow, SciPy
 
-**Machine Learning / Data Science:**  
-pandas, NumPy, scikit-learn, CatBoost, PyTorch, TensorFlow, SciPy
-
-**Computer Vision / Data Processing:**  
+**Computer Vision:**  
 OpenCV, image processing, Matplotlib, Plotly
 
-**Backend / Tools:**  
+**Backend / Engineering:**  
 FastAPI, Flask, Django, Docker, PostgreSQL, SQLite, MongoDB, Git
 
----
-
-## Featured Projects
-
-### Recovering Lost Implicit Feedback
-
-Solution for the **NTO AI Final 2025** task about recovering lost implicit feedback in a recommendation system.
-
-The solution uses a two-stage recommendation pipeline:
-
-- candidate generation
-- ranking model
-- feature engineering
-- post-processing
-- recommendation quality optimization
-
-**Stack:** Python, pandas, NumPy, scikit-learn, recommender systems
+**Languages:**  
+Python, SQL, C++
 
 ---
 
-### Auto White Balance
+## 🚀 Projects
 
-Computer Vision project for the **Automatic White Balance** problem from AIIJC.
+### Auto White Balance — AIIJC
 
-The goal was to correct image colors under complex lighting conditions by estimating white point distribution in a scene.
+Computer Vision project for the automatic white balance problem.
 
-**Stack:** Python, NumPy, OpenCV, image processing, computer vision
+The task was to correct image colors under complex lighting conditions by estimating white point distribution in a scene.
+
+**Tech:** Python, NumPy, OpenCV, image processing, computer vision
+
+---
+
+### Recovering Lost Implicit Feedback — NTO AI Final
+
+Two-stage recommender system for recovering lost implicit feedback.
+
+The solution includes candidate generation, ranking, feature engineering and post-processing.
+
+**Tech:** Python, pandas, NumPy, scikit-learn, recommender systems
 
 ---
 
@@ -87,14 +83,9 @@ The goal was to correct image colors under complex lighting conditions by estima
 
 Recommendation system built for an academy hackathon.
 
-The project includes:
+The project includes user-item interaction processing, ranking and diversity-aware reranking.
 
-- user-item interaction processing
-- ranking
-- diversity-aware reranking
-- personalized recommendations
-
-**Stack:** Python, pandas, NumPy, scikit-learn, recommender systems
+**Tech:** Python, pandas, NumPy, scikit-learn, recommender systems
 
 ---
 
@@ -102,36 +93,31 @@ The project includes:
 
 Telegram bot for course automation at an educational organization.
 
-The bot handles:
+The bot handles course registration, user interaction, contact information and certificate generation.
 
-- course registration
-- user interaction
-- contact information
-- certificate generation
-
-**Stack:** Python, Telegram Bot API, backend automation
+**Tech:** Python, Telegram Bot API, backend automation
 
 ---
 
-## Private Commercial ML Experience
+## 🔒 Private ML Experience
 
 I also have experience with a private commercial ML project that cannot be published publicly.
 
 The project involved:
 
 - feature engineering for product and advertising data
-- training several CatBoost models
+- training several ML models
 - time-based validation
 - rule-based recommendation logic
 - FastAPI endpoints
 - batch recommendation generation
 - model retraining pipeline
 
-**Stack:** Python, pandas, scikit-learn, CatBoost, FastAPI, Docker
+**Tech:** Python, pandas, scikit-learn, CatBoost, FastAPI, Docker
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndHunter&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
@@ -143,7 +129,7 @@ The project involved:
 
 ---
 
-## Contacts
+## 📫 Contacts
 
 - GitHub: [github.com/AndHunter](https://github.com/AndHunter)
-- Telegram: [@YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)
+- Telegram: [@main4562](https://t.me/main4562)
