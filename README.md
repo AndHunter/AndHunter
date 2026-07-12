@@ -1,4 +1,4 @@
-<h1 align="center">Andrey Naimushin</h1>
+<h1 align="center">Andrey Naymushin</h1>
 
 <p align="center">
   <b>ML Engineer · Python Developer</b>
